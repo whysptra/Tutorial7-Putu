@@ -27,5 +27,7 @@ header-includes:
 # New Section
 
 # New Section 2
+
 \begin{itemize} \item ... \end{itemize}
 # New Section 3
+
