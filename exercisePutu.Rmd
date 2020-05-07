@@ -21,8 +21,10 @@ header-includes:
 - \usepackage{sectsty}
 - \sectionfont{\color{olive}}
 - \usepackage{verbatim}
+
 ---
 
 # New Section
 
 # New Section 2
+\begin{itemize} \item ... \end{itemize}
